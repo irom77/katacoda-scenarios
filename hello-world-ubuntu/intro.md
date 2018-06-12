@@ -1,1 +1,1 @@
-Welcome to my Katacoda Ubuntu Scenario!
+Welcome to my Katacoda Scenarios ! I will be testing katacoda [environments] (https://www.katacoda.com/docs/scenarios/environments)
